@@ -2,7 +2,7 @@
 
  It`s a small app for practicing on working with objects in Javascript. The app allows one to add a movie title and some extra information and displays the added movies below the page. Then a user can also search for the movie(s) added using a search term entered. The app does not store the movies in a database, so once a page refreshes then the movies get deleted.
 
-![screenshot](./objects.png)
+![screenshot](./images/objects.png)
 
 
 ## Built With
