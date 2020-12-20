@@ -35,7 +35,7 @@ Happy coding!
 
 - Github: [emmanuelkamala](https://github.com/emmanuelkamala)
 - Twitter: [ejkamala](https://twitter.com/ejkamala)
-- Linkedin: [emmanuelkamala](https://linkedin.com/in/emmanuelkamala)
+- Linkedin: [emmanuelkamala](https://linkedin.com/emmanuelkamala)
 
 ## 🤝 Contributing
 
@@ -49,9 +49,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- The odin project
-- Bootstrap free framework
-- Microverse tips
+- Academind
 
 ## 📝 License
 
