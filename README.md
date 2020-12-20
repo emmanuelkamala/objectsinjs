@@ -35,7 +35,7 @@ Happy coding!
 
 - Github: [emmanuelkamala](https://github.com/emmanuelkamala)
 - Twitter: [ejkamala](https://twitter.com/ejkamala)
-- Linkedin: [emmanuelkamala](https://linkedin.com/emmanuelkamala)
+- Linkedin: [emmanuelkamala](https://linkedin.com/in/emmanuelkamala)
 
 ## 🤝 Contributing
 
